@@ -1,0 +1,8 @@
+
+:root {
+    --lol:violet;
+}
+a{
+    color :var(--lol) ;
+    
+}
